@@ -5,6 +5,8 @@
 # SketchUp Grid Importer
 Have you ever wanted to 3D Print your Arendelle drawings? Well using the new tools from Arendelle you can! Our both major Arendelle 2 engines [JArendelle](https://github.com/arendelle/jarendelle) and [Swifty](https://github.com/arendelle/swifty) now support a new file format called the "Grid File" which let us save the result of your Arendelle app. Then with apps like this you can load the Gird in places you want.
 
+<br /><br />
+
 ## How?
 #### Step 1
 Get the last developer-desktop version of one of the major Arendelle Engines: [JArendelle](https://github.com/arendelle/jarendelle) and [Swifty](https://github.com/arendelle/swifty).
@@ -38,10 +40,10 @@ In SketchUp use from the menu `File` click on the `Import Arendelle Grid	`. Choo
 
 ![](image.png)
 
-<br /><br />
-
 #### Step 7
 Now that you know how to import your Arendelle model to SketchUp you can do whatever you want with it. If you want to do 3D Printing, I suggest installing [this](https://extensions.sketchup.com/en/content/sketchup-stl) plugin and exporting the model to `STL` file format. Something that 3D Printers use.
+
+<br /><br />
 
 
 ## License
