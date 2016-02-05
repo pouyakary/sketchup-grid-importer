@@ -50,7 +50,8 @@ Now that you know how to import your Arendelle model to SketchUp you can do what
 
 ```
 SketchUp Arendelle Grid Importer
-Copyright (c) 2015 Pouya Kary <k@arendelle.org>
+   Copyright (c) 2015-2016 Kary Foundation, Inc.
+   Author: Pouya Kary <k@karyfoundation.org>
 
 
 This program is free software: you can redistribute it and/or modify
